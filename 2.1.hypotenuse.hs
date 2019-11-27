@@ -1,0 +1,1 @@
+hypotenuse a b x y = sqrt((a-x)^2 + (b-y)^2)
